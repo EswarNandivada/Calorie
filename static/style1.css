@@ -1,0 +1,56 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+body{
+	background: url('https://img.freepik.com/free-photo/fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg?w=900&t=st=1671520141~exp=1671520741~hmac=3e603e835ea9e7ae79e24d5758e75a53c352831e769cd05c32253de5b584a196') no-repeat;
+	background-size:cover;
+	color: #fff;
+}
+.registration-form {
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	transform: translate(-50%,-50%);
+	width: 400px;
+	color: black;
+}
+.registration-form h1{
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 40px 0;
+}
+.registration-form p{
+	font-size: 20px;
+	margin: 15px 0;
+}
+.registration-form input{
+	font-size: 20px;
+	padding: 10px 5px;
+	width: 100%;
+	border-radius: 5px;
+	outline: none;
+}
+.registration-form button{
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0;
+	padding: 10px 15px;
+	width: 40%;
+	border: 0;
+	border-radius: 5px;
+	background-color:green;
+	color: rgb(247, 244, 244); 
+}
+
+
+
+
+
+
+
+
+
+
